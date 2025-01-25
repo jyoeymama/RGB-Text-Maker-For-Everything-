@@ -7,4 +7,4 @@ If you have any issues make sure to put it in the issues section of this github 
 
 Make sure to star this repository on github to support my work!
 
-THank you all!
+Thank you all!
